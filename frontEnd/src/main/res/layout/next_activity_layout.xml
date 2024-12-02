@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!-- 배경 이미지 -->
+    <ImageView
+        android:id="@+id/background_image"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop"
+        android:alpha="0.3"
+        android:src="@drawable/first_img" />
+
+    <!-- 로고 이미지 -->
+    <ImageView
+        android:id="@+id/logo_image"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:src="@drawable/logo" />
+
+    <!-- 로고 이름 -->
+    <ImageView
+        android:id="@+id/logo_name"
+        android:layout_width="130dp"
+        android:layout_height="80dp"
+        android:src="@drawable/logoname"
+        android:layout_toEndOf="@id/logo_image"
+        android:layout_alignTop="@id/logo_image" />
+
+    <!-- 다양한 뷰들을 담을 수 있는 컨테이너 -->
+    <LinearLayout
+        android:id="@+id/container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginTop="100dp" />
+
+</RelativeLayout>
