@@ -20,4 +20,4 @@
 </td>
 
 <h2>사용한 기술 스택</h2>
-<img src="./images/Stack"/>
+<img src="./images/Stack.png" alt="데이터베이스 설계도" style="width:100%; margin-top:10px;">
