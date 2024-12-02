@@ -19,6 +19,5 @@
   <tl>일일 패키지 여행 앱</tl>
 </td>
 
-<hr/>
 <h2>사용한 기술 스택</h2>
 <img src="./images/Stack"/>
