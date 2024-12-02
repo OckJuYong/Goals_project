@@ -23,7 +23,7 @@
 <img src="./images/Stack.png" alt="기술스택 설계도" style="width:100%; margin-top:10px;">
 
 <h2>디자인</h2>
-<img src="./images/Profill.png" alt="프로필" style="width:100%; margin-top:10px;">
+<img src="./images/Profil.png" alt="프로필" style="width:100%; margin-top:10px;">
 <img src="./images/Login.png" alt="로그인 페이지" style="width:100%; margin-top:10px;">
 <img src="./images/Service.png" alt="실제 사용자 화면" style="width:100%; margin-top:10px;">
 <img src="./images/Check.png" alt="예약기능" style="width:100%; margin-top:10px;">
