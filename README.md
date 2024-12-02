@@ -33,3 +33,10 @@
 <img src="./images/page2.png" alt="기능 설명2" style="width:100%; margin-top:10px;">
 <img src="./images/page3.png" alt="기능 설명3" style="width:100%; margin-top:10px;">
 <img src="./images/page4.png" alt="기능 설명4" style="width:100%; margin-top:10px;">
+
+
+<h2>시연 영상</h2>
+<video controls style="width:100%; margin-top:10px;">
+  <source src="./images/Video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
