@@ -37,6 +37,6 @@
 
 <h2>시연 영상</h2>
 <video controls style="width:100%; margin-top:10px;">
-  <source src="./images/Video.mp4" type="video/mp4">
+  <source src="./images/Viedeo.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
